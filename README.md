@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Liucuxiu</h1>
 <h3 align="center">A passionate software engineer from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liucuxiu&label=Profile%20views&color=0e75b6&style=flat" alt="liucuxiu" /> </p>
 
 - 🌱 I’m currently learning **Domain Driven Design, Event Driven Architecture**
 
